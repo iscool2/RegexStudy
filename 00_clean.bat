@@ -1,0 +1,1 @@
+Del *.obj;*.sbr;*.ncb;*.pch;*.aps;*.pdb;*.bsc;*.clw;*.plg;*.idb;*.ilk;*.res;*.sdf;*.ipch /s /q

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\01.SW\uAC1C\uBC1C\\RegexStudy\\RegexStudy\\RegexStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A51D19-2761-45FB-86DB-2385F59CE2A3}|RegexStudy.vcxproj|D:\\01.SW\uAC1C\uBC1C\\RegexStudy\\RegexStudy\\RegexStudy\\RegexStudyDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23A51D19-2761-45FB-86DB-2385F59CE2A3}|RegexStudy.vcxproj|solutionrelative:RegexStudyDlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A51D19-2761-45FB-86DB-2385F59CE2A3}|RegexStudy.vcxproj|D:\\01.SW\uAC1C\uBC1C\\RegexStudy\\RegexStudy\\RegexStudy\\RegexStudyDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23A51D19-2761-45FB-86DB-2385F59CE2A3}|RegexStudy.vcxproj|solutionrelative:RegexStudyDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegexStudyDlg.cpp",
+              "DocumentMoniker": "D:\\01.SW\uAC1C\uBC1C\\RegexStudy\\RegexStudy\\RegexStudy\\RegexStudyDlg.cpp",
+              "RelativeDocumentMoniker": "RegexStudyDlg.cpp",
+              "ToolTip": "D:\\01.SW\uAC1C\uBC1C\\RegexStudy\\RegexStudy\\RegexStudy\\RegexStudyDlg.cpp",
+              "RelativeToolTip": "RegexStudyDlg.cpp",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAAALUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-04T10:11:05.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegexStudyDlg.h",
+              "DocumentMoniker": "D:\\01.SW\uAC1C\uBC1C\\RegexStudy\\RegexStudy\\RegexStudy\\RegexStudyDlg.h",
+              "RelativeDocumentMoniker": "RegexStudyDlg.h",
+              "ToolTip": "D:\\01.SW\uAC1C\uBC1C\\RegexStudy\\RegexStudy\\RegexStudy\\RegexStudyDlg.h",
+              "RelativeToolTip": "RegexStudyDlg.h",
+              "ViewState": "AQIAADwAAAAAAAAAAAApwEkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-04T07:57:38.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
